@@ -7,7 +7,7 @@
    - Python: for statistical analysis and A/B testing
    - Pandas & NumPy: for data manipulation and processing
    - SciPy: for statistical hypothesis testing
-   - Seaborn & Matplotlib: for data visualization
+   - Seaborn: for data visualization
 
 ## Key Learnings
 A/B testing analysis revealed that Version_C had the highest click-through rate and was statistically significant compared to Versions B and D, but not to Version_A, which had the second-highest rate. Therefore, both Version_C and Version_A can be considered winners.
