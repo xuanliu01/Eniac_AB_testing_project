@@ -5,7 +5,7 @@
 
 ## Languages and Libraries Used
    - Python: for statistical analysis and A/B testing
-   - Pandas & NumPy: for data manipulation and processing
+   - Pandas: for data manipulation and processing
    - SciPy: for statistical hypothesis testing
    - Seaborn: for data visualization
 
